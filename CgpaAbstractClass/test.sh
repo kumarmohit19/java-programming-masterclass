@@ -1,0 +1,1 @@
+mvn compile test; cat target/surefire-reports/*.xml
